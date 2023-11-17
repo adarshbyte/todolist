@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/todos-list": {
+      "name": "/todos-list",
+      "lambdaFunction": "createTodo",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
